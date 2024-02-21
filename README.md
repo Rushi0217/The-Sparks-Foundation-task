@@ -9,7 +9,7 @@ Predict the percentage of an student based on the number of study hours, this is
 
 <b>Task 1 DataSet Link:</b> http://bit.ly/w-data
 <br/><br/>
-<b>Task 2 DataSet Link:</b> https://bit.ly/3kXTdox
+
 
 
 <b>Tool :</b> Jupyter
